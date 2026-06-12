@@ -1,9 +1,4 @@
-## Hi there 👋
 
-
-### ¡Hola! 👋 Soy [Tu Nombre]
-
-Soy un desarrollador apasionado por el backend.
 
 <!--
 - 🔭 Actualmente estoy trabajando en...
